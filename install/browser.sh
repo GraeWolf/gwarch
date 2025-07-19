@@ -1,0 +1,1 @@
+pikaur -S brave-bin
